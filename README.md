@@ -2,9 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=seba3h&label=Profile%20views&color=0e75b6&style=flat" alt="seba3h" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="center"><img src="https://gpvc.arturio.dev/AstraaDev" alt="Visitors"></a>
 
 ```python
 Languages  :  Python, Js, Batch, C, HTML/CSS
