@@ -5,5 +5,4 @@
 ```python
 Languages  :  Python, Html, Css, JavaScript
   Discord  :  465841405022044171
-  Project  :  soon...
 ```
